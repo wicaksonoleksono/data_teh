@@ -5,9 +5,16 @@
 * pada setiap /dir terdapat 5 sample per varian
 * di dalam /dir terdapat .csv terdapat 3 sensor yang berbeda
     * Interval waktu yang diambil sensor adalah 60ms 
+
+
+<br/>
+
 ![alt text](image-1.png)
 
 ## Rumus konversi nilai analog ke nilai tegangan 
 Volt value = Sensor value x (5 volt/1023)
+
+<br>
+
 ![alt text](image.png)
 
